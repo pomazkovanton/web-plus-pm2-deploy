@@ -139,6 +139,6 @@ class Api {
   }
   }
   // Замените на адрес вашего бэкенда
-  const api = new Api('https://api.mesto.pomazkov.nomoreparties.co/');
+  const api = new Api('https://api.mesto.pomazkov.nomoreparties.co');
 
   export default api;
